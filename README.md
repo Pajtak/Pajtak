@@ -1,6 +1,6 @@
 - 👋 Olá, Eu sou @Pajtak
 - 👀 Me interesso por História, Cinema, Livros e Programação  
-- 🌱 Estou aprendendo Linguagem de Programação Java
+- 🌱 Aprendendo Linguagem Java na Generation Brasil
 - 💞️ 
 - 📫 
 
