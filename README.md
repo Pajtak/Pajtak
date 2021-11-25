@@ -1,6 +1,8 @@
 ## Olá, Eu sou Bruno Pajtak
 
 
+<p align="center">
+  <a href="https://gifyu.com/image/S2WH3"><img src="https://s10.gifyu.com/images/248e47a848da59d73bd1b58b34b65a7c.gif" alt="248e47a848da59d73bd1b58b34b65a7c.gif" border="0" /></a>
 <h4 align="center">
   <a href="https://github.com/Pajtak">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pajtak&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
