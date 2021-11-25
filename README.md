@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="470" src="assets/altReadMe/gifReadMe/GifReadMe.gif>
+  <img width="470" src="assets/altReadMe/gifReadMe/GifReadMe.gif">
  </p>
 <h4 align="center">
   <a href="https://github.com/Pajtak">
